@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "BodyCalc";
+}
+
+<h2>Result</h2>
+<a class="btn btn-primary" href="http://localhost:57002/Calculate" role="button">Back</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">BMI</th>
+            <th scope="col">Perfect Weight</th>
+            <th scope="col">Bones Weight</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@ViewBag.values.BMI_Txt</td>
+            <td>@ViewBag.values.PerfectWeight_Txt</td>
+            <td>@ViewBag.values.BonesWeight_Txt</td>
+        </tr>
+    </tbody>
+</table>
+
+

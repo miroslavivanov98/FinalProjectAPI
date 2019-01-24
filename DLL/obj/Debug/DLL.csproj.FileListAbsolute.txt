@@ -1,0 +1,12 @@
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\DLL\bin\Debug\DLL.dll
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\DLL\bin\Debug\DLL.pdb
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.dll
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.pdb
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\BodyCalculator\DLL\bin\Debug\DLL.dll
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\BodyCalculator\DLL\bin\Debug\DLL.pdb
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.dll
+C:\Users\Miroslav\source\repos\BodyCalculator\BodyCalculator\BodyCalculator\DLL\obj\Debug\DLL.pdb
